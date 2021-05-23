@@ -1,0 +1,27 @@
+header{
+font-family: 'Courier New', Courier, monospace;
+text-align: right;
+padding: 5px;
+}
+fieldset{
+    border-color: black;
+    background-color: pink;
+}
+.footer{
+   background-color: pink; 
+   margin-top: 400px;
+}
+.redes{
+margin-left: 850px;
+}
+a{
+    background-color:white;
+    border:solid black 2px; 
+}
+.titulo{
+    text-align: left;
+}
+.logo{
+    float: left;
+    margin-right: 1%;
+}

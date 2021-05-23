@@ -1,0 +1,93 @@
+header{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: right;
+    padding: 5px;
+    }
+    fieldset{
+        border-color: black;
+        background-color: pink;
+    }
+    .footer{
+        background-color: pink; 
+        margin-top: 25px;
+     }
+     .redes{
+        margin-left: 850px;
+        }
+     a{
+        background-color:white;
+         border:solid black 2px; 
+     }
+     .titulo{
+        text-align: left;
+    }
+    .imagen{
+        margin-left: 2%;
+        border: solid black;
+    }
+    .title{
+        text-align: center;
+    }
+    .left{
+        float: left;
+        margin-left: 5%;
+        padding: 4%;
+        border: solid black;
+        margin-right: 65%;
+        margin-bottom: 1%;
+        background-color: blanchedalmond;
+    }
+    .center{
+        position: absolute;
+        float:right;
+        margin-left: 36%;
+        padding: 4.5%;
+        border: solid black;
+        margin-right: 35%;
+        background-color: blanchedalmond;
+    }
+    .right{
+        position: absolute;
+        float: right;
+        margin-left: 66%;
+        padding: 4%;
+        border: solid black;
+        margin-right: 5%;
+        margin-bottom: 1%;
+        background-color: blanchedalmond;
+    }
+    .tarjeta1{
+        float:left;
+        margin-left: 5%;
+        padding: 5%;
+        border: solid black;
+        margin-right: 55%;
+        margin-bottom: 1%;
+        background-color: blanchedalmond;
+    }
+    .spaghetti{
+        border: solid black;
+        margin-left: 1%;
+    }
+    .tarjeta2{
+        float: right;
+        position: absolute;
+        margin-left: 5%;
+        padding: 5%;
+        border: solid black;
+        margin-right: 5%;
+        margin-bottom: 1%;
+        margin-left: 50%;
+        background-color: blanchedalmond;
+    }
+    .ribeye{
+        border: solid black;
+        margin-left: 5%;
+    }
+    .logo{
+        float: left;
+        margin-right: 1%;
+    }
+    body{
+        background-color: gray;
+    }

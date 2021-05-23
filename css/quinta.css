@@ -1,0 +1,54 @@
+header{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: right;
+    padding: 5px;
+    }
+    fieldset{
+        border-color: black;
+        background-color: pink;
+    }
+    .footer{
+        background-color: pink; 
+        margin-top: 25px;
+     }
+     .redes{
+        margin-left: 850px;
+        }
+     a{
+        background-color:white;
+         border:solid black 2px; 
+     }
+     .titulo{
+        text-align: left;
+    }
+    h2{
+        text-align: center;
+    }
+    .form{
+        background-color: blanchedalmond;
+    }
+    .requeridos{
+        color: red;
+    }
+    .botones{
+        text-align: center;
+    }
+    .logo{
+        float: left;
+        margin-right: 1%;
+    }
+    aside{
+        position: absolute;
+        border: solid black;
+        margin-left: 80% ;
+        margin-right: 5%;
+        margin-bottom: 1%;
+        padding: 1%;
+        background-color: pink;
+    }
+    h3{
+        text-align: center;
+    }
+    body{
+        background-color: gray;
+    }

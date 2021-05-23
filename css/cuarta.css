@@ -1,0 +1,110 @@
+header{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: right;
+    padding: 5px;
+    }
+    fieldset{
+        border-color: black;
+        background-color: pink;
+    }
+    .footer{
+        background-color: pink; 
+        margin-top: 25px;
+     }
+     .redes{
+        margin-left: 850px;
+        }
+     a{
+        background-color:white;
+         border:solid black 2px; 
+     }
+     .titulo{
+        text-align: left;
+    }
+    .cuadros{
+        float: left;
+        background-color: blanchedalmond;
+        margin-right: 70%;
+        margin-left: 5%;
+        margin-bottom: 1%;
+    }
+    .tarjeta1{
+        margin-left: 5%;
+        padding: 5%;
+        border: solid black;
+        margin-right: 5%;
+        margin-bottom: 1%;
+    }
+    .cuadros2{
+        position: absolute;
+        float: right;
+        background-color: blanchedalmond;
+        margin-right: 37%;
+        margin-left: 32%;
+        margin-bottom: 1%;
+    }
+    .tarjeta2{
+        margin-left: 5%;
+        padding: 5%;
+        border: solid black;
+        margin-right: 5%;
+        margin-bottom: 1%;
+    }
+    .cuadros3{
+        position: absolute;
+        float: right;
+        background-color: blanchedalmond;
+        margin-right: 5%;
+        margin-left: 65%;
+        margin-bottom: 1%;
+    }
+    .tarjeta3{
+        margin-left: 5%;
+        padding: 5%;
+        border: solid black;
+        margin-right: 5%;
+        margin-bottom: 1%;
+    }
+    .cuadros4{
+        position: absolute;
+        float: right;
+        background-color: blanchedalmond;
+        margin-right: 37%;
+        margin-left: 32%;
+        margin-bottom: 1%;
+        margin-top: 27.5%;
+    }
+    .tarjeta4{
+        margin-left: 5%;
+        padding: 5%;
+        border: solid black;
+        margin-right: 5%;
+        margin-bottom: 1%;
+    }
+    .cuadros5{
+        position: absolute;
+        float: right;
+        background-color: blanchedalmond;
+        margin-right: 5%;
+        margin-left: 65%;
+        margin-bottom: 1%;
+        margin-top: 27.5%;
+    }
+    .tarjeta5{
+        margin-left: 5%;
+        padding: 5%;
+        border: solid black;
+        margin-right: 5%;
+        margin-bottom: 1%;
+    }
+    img:hover{
+        transform: scale(1.1);
+    transition: all 0.5s ease;
+    }
+    .logo{
+        float: left;
+        margin-right: 1%;
+    }
+    body{
+        background-color: gray;
+    }
